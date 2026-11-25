@@ -1,2 +1,2 @@
-# library-inventory-system
-COS 201 project-[Your Project Name]
+# hospital-patient-system
+COS 201 project-hospital-patient-system
